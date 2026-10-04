@@ -15,3 +15,7 @@ Thumbs.db
 # Переменные окружения
 .env
 .env.*
+
+# Файлы ini
+Desktop.ini
+desktop.ini
